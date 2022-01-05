@@ -1,3 +1,5 @@
-# React train project
+# Online-shop
+it,s plane, thats'll be my first real project.
 
-## _Hello, it's my project, using hot-middleware and webpack-dev-middleware._
+## I used to my webpack for this project
+(SSR+ HMR)
